@@ -10,7 +10,7 @@ echo:
 
 set "BIN=%~dp0bin\"
 set "LISTS=%~dp0lists\"
-cd /d %BIN%
+cd /d "%BIN%"
 
 start "zapret: %~n0" /min "%BIN%winws.exe" ^
 --wf-tcp=80,443,2053,2083,2087,2096,8443,444-65535,%GameFilter% ^
