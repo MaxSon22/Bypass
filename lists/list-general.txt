@@ -118,3 +118,4 @@ ytimg.com
 ytimg.l.google.com
 zaap-chat-production-9e95b623e6a3f12e.elb.eu-west-1.amazonaws.com
 zaap-chat.ankama.com
+ts6.hboukh.com
